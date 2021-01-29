@@ -1,0 +1,3 @@
+﻿  atributeparsersample.cpp
+C:\Workspace\attributeparser\atributeparsersample\atributeparsersample\atributeparsersample.cpp(19,27): warning C4018: '>': signed/unsigned mismatch
+  atributeparsersample.vcxproj -> C:\Workspace\attributeparser\atributeparsersample\Debug\atributeparsersample.exe
